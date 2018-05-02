@@ -1,7 +1,6 @@
 ## skip-thoughts
 
 * Sentence2vec，achieve [*Skip-thought*](https://arxiv.org/abs/1506.06726)，based on tensorflow 1.3.
-s
 
 ## Overview
 
